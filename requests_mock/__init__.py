@@ -35,3 +35,4 @@ __all__ = ['Adapter',
            'POST',
            'PUT',
            ]
+__version__ = '1.7.1+fb1'
